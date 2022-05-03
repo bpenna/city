@@ -1,0 +1,19 @@
+#area {
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  image-rendering: -moz-crisp-edges;
+  width: 400px;
+  height: 400px;
+}
+
+div {
+  text-align: center;
+}
+
+canvas {
+  border: 10px solid black;
+  //background-color: lightblue;
+  width: 90%;
+  height: 80vh;
+ 
+}
